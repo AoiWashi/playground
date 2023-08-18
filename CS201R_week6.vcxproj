@@ -130,6 +130,9 @@
     <ClCompile Include="CS201R_week6.cpp" />
     <ClCompile Include="Instructions.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CS201R_week6.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
